@@ -1,0 +1,5 @@
+C:\Users\Nikita\Desktop\Army Coding\Projects CS\[Projects] TCP\T2_TcpEchoClient\T2_TcpEchoClient\bin\Debug\T2_TcpEchoClient.exe
+C:\Users\Nikita\Desktop\Army Coding\Projects CS\[Projects] TCP\T2_TcpEchoClient\T2_TcpEchoClient\bin\Debug\T2_TcpEchoClient.pdb
+C:\Users\Nikita\Desktop\Army Coding\Projects CS\[Projects] TCP\T2_TcpEchoClient\T2_TcpEchoClient\obj\Debug\T2_TcpEchoClient.csprojResolveAssemblyReference.cache
+C:\Users\Nikita\Desktop\Army Coding\Projects CS\[Projects] TCP\T2_TcpEchoClient\T2_TcpEchoClient\obj\Debug\T2_TcpEchoClient.exe
+C:\Users\Nikita\Desktop\Army Coding\Projects CS\[Projects] TCP\T2_TcpEchoClient\T2_TcpEchoClient\obj\Debug\T2_TcpEchoClient.pdb

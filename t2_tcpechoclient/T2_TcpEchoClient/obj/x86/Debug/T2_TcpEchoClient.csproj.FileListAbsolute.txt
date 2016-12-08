@@ -1,0 +1,5 @@
+C:\Documents and Settings\dl1\Мои документы\НИКИТА\старое\ВЛАД\Опись приказов 2014 год\Номенклатура\Projects CS\[Projects] TCP\T2_TcpEchoClient\T2_TcpEchoClient\bin\Debug\T2_TcpEchoClient.exe
+C:\Documents and Settings\dl1\Мои документы\НИКИТА\старое\ВЛАД\Опись приказов 2014 год\Номенклатура\Projects CS\[Projects] TCP\T2_TcpEchoClient\T2_TcpEchoClient\bin\Debug\T2_TcpEchoClient.pdb
+C:\Documents and Settings\dl1\Мои документы\НИКИТА\старое\ВЛАД\Опись приказов 2014 год\Номенклатура\Projects CS\[Projects] TCP\T2_TcpEchoClient\T2_TcpEchoClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dl1\Мои документы\НИКИТА\старое\ВЛАД\Опись приказов 2014 год\Номенклатура\Projects CS\[Projects] TCP\T2_TcpEchoClient\T2_TcpEchoClient\obj\x86\Debug\T2_TcpEchoClient.exe
+C:\Documents and Settings\dl1\Мои документы\НИКИТА\старое\ВЛАД\Опись приказов 2014 год\Номенклатура\Projects CS\[Projects] TCP\T2_TcpEchoClient\T2_TcpEchoClient\obj\x86\Debug\T2_TcpEchoClient.pdb
