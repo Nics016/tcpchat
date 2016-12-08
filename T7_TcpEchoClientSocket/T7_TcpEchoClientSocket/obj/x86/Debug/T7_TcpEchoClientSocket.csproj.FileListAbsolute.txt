@@ -1,0 +1,5 @@
+C:\Documents and Settings\dl1\Мои документы\НИКИТА\старое\ВЛАД\Опись приказов 2014 год\Номенклатура\Projects CS\[Projects] TCP\T7_TcpEchoClientSocket\T7_TcpEchoClientSocket\bin\Debug\T7_TcpEchoClientSocket.exe
+C:\Documents and Settings\dl1\Мои документы\НИКИТА\старое\ВЛАД\Опись приказов 2014 год\Номенклатура\Projects CS\[Projects] TCP\T7_TcpEchoClientSocket\T7_TcpEchoClientSocket\bin\Debug\T7_TcpEchoClientSocket.pdb
+C:\Documents and Settings\dl1\Мои документы\НИКИТА\старое\ВЛАД\Опись приказов 2014 год\Номенклатура\Projects CS\[Projects] TCP\T7_TcpEchoClientSocket\T7_TcpEchoClientSocket\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dl1\Мои документы\НИКИТА\старое\ВЛАД\Опись приказов 2014 год\Номенклатура\Projects CS\[Projects] TCP\T7_TcpEchoClientSocket\T7_TcpEchoClientSocket\obj\x86\Debug\T7_TcpEchoClientSocket.exe
+C:\Documents and Settings\dl1\Мои документы\НИКИТА\старое\ВЛАД\Опись приказов 2014 год\Номенклатура\Projects CS\[Projects] TCP\T7_TcpEchoClientSocket\T7_TcpEchoClientSocket\obj\x86\Debug\T7_TcpEchoClientSocket.pdb

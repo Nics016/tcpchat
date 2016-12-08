@@ -1,0 +1,5 @@
+C:\Documents and Settings\dl1\Мои документы\НИКИТА\старое\ВЛАД\Опись приказов 2014 год\Номенклатура\Projects CS\[Projects] TCP\T5_UdpEchoServer\T5_UdpEchoServer\bin\Debug\T5_UdpEchoServer.exe
+C:\Documents and Settings\dl1\Мои документы\НИКИТА\старое\ВЛАД\Опись приказов 2014 год\Номенклатура\Projects CS\[Projects] TCP\T5_UdpEchoServer\T5_UdpEchoServer\bin\Debug\T5_UdpEchoServer.pdb
+C:\Documents and Settings\dl1\Мои документы\НИКИТА\старое\ВЛАД\Опись приказов 2014 год\Номенклатура\Projects CS\[Projects] TCP\T5_UdpEchoServer\T5_UdpEchoServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dl1\Мои документы\НИКИТА\старое\ВЛАД\Опись приказов 2014 год\Номенклатура\Projects CS\[Projects] TCP\T5_UdpEchoServer\T5_UdpEchoServer\obj\x86\Debug\T5_UdpEchoServer.exe
+C:\Documents and Settings\dl1\Мои документы\НИКИТА\старое\ВЛАД\Опись приказов 2014 год\Номенклатура\Projects CS\[Projects] TCP\T5_UdpEchoServer\T5_UdpEchoServer\obj\x86\Debug\T5_UdpEchoServer.pdb
